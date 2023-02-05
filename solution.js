@@ -1,6 +1,6 @@
-Given an array of integers nums, find the next permutation of nums.
+// Given an array of integers nums, find the next permutation of nums.
 
-The replacement must be in place and use only constant extra memory.
+// The replacement must be in place and use only constant extra memory.
 
 function nextPermutation(nums) {
   let i = nums.length - 2;
